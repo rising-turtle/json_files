@@ -3,9 +3,10 @@
 	"category": "SwiftUI",
 	"content": {
 		"id": 0,
-		"image": "swiftUI",
+		"image": "swift",
 		"time": "2 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
+        "urlPrefix": "https://codewithchris.github.io/learningJSON/",
 		"lessons": [{
 				"id": 0,
 				"title": "App Structure and Behaviour",
