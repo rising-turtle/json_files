@@ -1,5 +1,8 @@
-
-[
+{	
+	"int" : 3,
+	"object" : "real",
+	"pizza" : 
+	[
 	{ "name":"Meat Lovers",
 		"toppings": ["Pepperoni", "Bacon", "Sausage"]
 	},
@@ -9,4 +12,5 @@
 	{ "name":"Deluxe",
 		"toppings": ["Pepperoni", "Green Peppers", "Mushroom"]
 	}
-]
+	]
+}
