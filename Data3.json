@@ -1,0 +1,40 @@
+{
+  "quiz": {
+    "sport": {
+      "question": "Which NBA team?",
+      "logo": "https://ibb.co/yBB4YL7z",
+      "options": [
+        "New York Bulls",
+        "Los Angeles Kings",
+        "Golden State Warriros",
+        "Huston Rocket"
+      ],
+      "answer": "Golden State Warriros",
+      "score": 40
+    },
+    "maths": [
+      {
+        "question": "5 + 7 = ?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "answer": "12",
+        "score": null
+      },
+      {
+        "question": "12 - 8 = ?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": "4",
+        "score": 60
+      }
+    ]
+  }
+}
