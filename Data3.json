@@ -11,7 +11,7 @@
     "answer": "Golden State Warriros",
     "score": 40
   },
-  "maths": [
+  "math": 
     {
       "question": "5 + 7 = ?",
       "options": [
@@ -22,17 +22,5 @@
       ],
       "answer": "12",
       "score": null
-    },
-    {
-      "question": "12 - 8 = ?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "answer": "4",
-      "score": 60
     }
-  ]
 }
